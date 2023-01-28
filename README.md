@@ -1,8 +1,8 @@
 # UE5_Melee_Soulslike
 
-A soulslike combat system made completely in blueprints, inspired by Dark Souls. A combat system contains targeting, combo attacks, various weapons, stamina, dodge (of course), some basic AI (patrol, attack, defence, etc.), bossfight. 
+A soulslike combat system made in blueprints, inspired by Dark Souls. A combat system contains targeting, combo attacks, various weapons, stamina, dodge, some basic AI (patrol, attack, defence, etc.), bossfight. 
 
-Created in Unreal Engine 5 in a format of a one week challenge.
+Created in Unreal Engine 5. 
 
 A basic gameplay video.
 
