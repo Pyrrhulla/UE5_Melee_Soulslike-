@@ -2,7 +2,8 @@
 
 A soulslike combat system made in blueprints, inspired by Dark Souls. A combat system contains targeting, combo attacks, various weapons, stamina, dodge, some basic AI (patrol, attack, defence, etc.), bossfight. 
 
-Created in Unreal Engine 5. 
+Created in Unreal Engine 5 as a study of Blueprint programming by this course: 
+https://www.udemy.com/course/unreal-engine-5-soulslike-combat/
 
 A basic gameplay video.
 
